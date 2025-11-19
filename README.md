@@ -8,7 +8,7 @@ Repositório para armazenar projetos sobre o curso de Python da [Digital Innovat
 - [Documentação Github](https://docs.github.com/)]
 
 ## 💻 Desafios de Projetos:
-
+Projeto_1.py
 
 ## Referências
 - [Digital Innovation one]().
